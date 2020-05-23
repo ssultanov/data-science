@@ -9,3 +9,5 @@ def simple_return(start, ticker, *args):
     data.to_csv(file_name)
 
 simple_return(*argv[1:])
+
+hello = 'Hello from GitHub'
